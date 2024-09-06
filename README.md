@@ -1,2 +1,2 @@
-# university-speech
+# University Speech
 This is a project to collect and analyze importance speeches from universities around the world. 
